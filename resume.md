@@ -1,6 +1,6 @@
 # Megan Cheung
 
-[a link] (megcheu@uw.edu)
+megcheu@uw.edu 
 
 http://www.linkedin.com/in/megcheung
 
