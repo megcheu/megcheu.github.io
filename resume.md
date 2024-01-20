@@ -1,6 +1,8 @@
 # Megan Cheung
 <img src="megan.jpeg" alt="An image of Megan Cheung" width="300"/>
+
 ## Links
+
 megcheu@uw.edu 
 
 http://www.linkedin.com/in/megcheung
@@ -44,5 +46,5 @@ Summary of Role:
 - Learned to research public policy at an academic level, communication, and public speaking skills.
 Constructed and deployed strategy from beginning to end that encompassed the overall and detailed attributes of a case. 
 
-[SpeechRanks] (http://www.speechranks.com/2020/profile/view/7563)
+[Speech Ranks](http://www.speechranks.com/2020/profile/view/7563)
 
