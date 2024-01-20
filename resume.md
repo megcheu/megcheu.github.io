@@ -1,5 +1,6 @@
 # Megan Cheung
-
+![An image of Megan Cheung](megan.jpeg)
+## Links
 megcheu@uw.edu 
 
 http://www.linkedin.com/in/megcheung
@@ -8,9 +9,7 @@ http://www.linkedin.com/in/megcheung
 
 ## Varsity Debate Coach (Bothell, WA)
 
-*Verve Speech and Debate Club*
-
-(September 2021 - Present)
+*Verve Speech and Debate Club* | (September 2021 - Present)
 
 Summary of Role:
 
@@ -20,9 +19,7 @@ Summary of Role:
 - **Mentored** and **trained** research and argumentation skills.
 
 ## Legal Administrative Assistant (Kirkland, WA)
-*Law Office of Jenny Cochrane*
-
-(June 2022 - Nov 2022)
+*Law Office of Jenny Cochrane* | (June 2022 - Nov 2022)
 
 Summary of Role:
 
@@ -33,9 +30,7 @@ Summary of Role:
 - Spoke directly to clients to **identify their needs** and provided proper service to. 
 
 ## Dance Instructor (Bothell, WA)
-*Cedar Park Dance Academy*
-
-(Sep 2019 - Jul 2021)
+*Cedar Park Dance Academy* | (Sep 2019 - Jul 2021)
 
 Summary of Role:
 
