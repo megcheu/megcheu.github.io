@@ -8,9 +8,8 @@ http://www.linkedin.com/in/megcheung
 
 ## Varsity Debate Coach (Bothell, WA)
 
-* [Verve Speech and Debate Club][].*
-
-** (September 2021 - Present)
+*Verve Speech and Debate Club*
+(September 2021 - Present)
 
 Summary of Role:
 
@@ -20,9 +19,8 @@ Summary of Role:
 - **Mentored** and **trained** research and argumentation skills.
 
 ## Legal Administrative Assistant (Kirkland, WA)
-* [Law Office of Jenny Cochrane][] description, particularly if not well-known.*
-
-** (June 2022 - Nov 2022)
+*Law Office of Jenny Cochrane*
+(June 2022 - Nov 2022)
 
 - **Communicated** professionally with courts, attorneys, and clients verbally and in writing in accordance the needs of the head attorney.
 - Worked closely with the head attorney to **organize** deadlines, appointments, and filing system. 
@@ -31,9 +29,8 @@ Summary of Role:
 - Spoke directly to clients to **identify their needs** and provided proper service to. 
 
 ## Dance Instructor (Bothell, WA)
-* [Cedar Park Dance Academy][] description, particularly if not well-known.*
-
-** (Sep 2019 - Jul 2021)
+*Cedar Park Dance Academy*
+(Sep 2019 - Jul 2021)
 
 Summary of your role:
 
