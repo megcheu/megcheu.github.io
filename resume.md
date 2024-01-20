@@ -3,9 +3,9 @@
 
 ## Links
 
-![email](megcheu@uw.edu)
+[Email](megcheu@uw.edu)
 
-![linkedin](http://www.linkedin.com/in/megcheung)
+[Linkedin](http://www.linkedin.com/in/megcheung)
 
 # Work Experience (last 10 years)
 
