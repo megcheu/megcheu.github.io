@@ -3,9 +3,9 @@
 
 ## Links
 
-[Email](megcheu@uw.edu)
+> [Email](megcheu@uw.edu)
 
-[Linkedin](http://www.linkedin.com/in/megcheung)
+> [Linkedin](http://www.linkedin.com/in/megcheung)
 
 # Work Experience (last 10 years)
 
@@ -46,5 +46,5 @@ Summary of Role:
 - Learned to research public policy at an academic level, communication, and public speaking skills.
 Constructed and deployed strategy from beginning to end that encompassed the overall and detailed attributes of a case. 
 
-[Speech Ranks](http://www.speechranks.com/2020/profile/view/7563)
+> [Speech Ranks](http://www.speechranks.com/2020/profile/view/7563)
 
