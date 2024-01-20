@@ -1,5 +1,5 @@
 # Megan Cheung
-![An image of Megan Cheung](megan.jpeg){:width="200px"}
+<img src="megan.jpeg" alt="An image of Megan Cheung" width="300"/>
 ## Links
 megcheu@uw.edu 
 
