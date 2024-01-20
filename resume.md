@@ -1,5 +1,5 @@
 # Megan Cheung
-![An image of Megan Cheung](megan.jpeg)
+![An image of Megan Cheung](megan.jpeg){:width="200px"}
 ## Links
 megcheu@uw.edu 
 
@@ -37,3 +37,12 @@ Summary of Role:
 - **Organized** class schedules
 - **Taught** and **created** ballet excercises
 - **Choreographed** dances for biannual peformances
+
+# Extracurriculars
+## Debate
+- Ranked 8th at nationals and 16th nationally senior year of high school in Team Policy Debate.
+- Learned to research public policy at an academic level, communication, and public speaking skills.
+Constructed and deployed strategy from beginning to end that encompassed the overall and detailed attributes of a case. 
+
+[SpeechRanks] (http://www.speechranks.com/2020/profile/view/7563)
+
